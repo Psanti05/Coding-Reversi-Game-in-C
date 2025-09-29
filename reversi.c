@@ -260,5 +260,3 @@ int main(void) {
   printBoard(board, n);
   return 0;
 }
-
-// when copying this code for lab 8, take it from the ecf cuz that one is broken, it works differently
